@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=PT+Sans&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto&family=Wendy+One&display=swap');
+
+*{
+    font-family: "Raleway", sans-serif;
+}
+
+
+::selection{
+    color: rgb(221, 136, 9);
+}
+
